@@ -1970,16 +1970,16 @@ max-width: 100px;
      max-width: 283px;
    }
    .container6{
-     max-width: 367px;
-     display: flex;
-     flex-direction: column;
+    max-width: 283px;
+    display: flex;
+    flex-direction: column;
    }
    .title6 {
-     font-size: 2.25rem;
-     width: 367px;
+    font-size: 2rem;
+    width: 300px;
    }
    .subtitle6 {
-       font-size: 1.5rem;
+    font-size: 1.2rem;
    }
    .description6 {
        font-size: 1rem;
@@ -1990,9 +1990,9 @@ max-width: 100px;
    }
    .mountainbg3 {
     bottom: 0px;
-    left: 90px;
+ 
     width: 247px;
-    height: 241px;
+    height: 327px;
    }
    .ready-to-align-container {
      font-size: 2.5rem;
